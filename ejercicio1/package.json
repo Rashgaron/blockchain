@@ -10,7 +10,7 @@
     "jest": "^26.6.3"
   },
   "scripts": {
-	"test":"jest --verbose --coverage --watchAll"
+    "test": "jest --verbose --coverage --watchAll"
   },
   "author": "daniel rodriguez",
   "license": "ISC"
